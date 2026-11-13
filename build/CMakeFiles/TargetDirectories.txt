@@ -1,0 +1,3 @@
+C:/GitHub/ohGodItsPointerTime/build/CMakeFiles/mainApp.dir
+C:/GitHub/ohGodItsPointerTime/build/CMakeFiles/edit_cache.dir
+C:/GitHub/ohGodItsPointerTime/build/CMakeFiles/rebuild_cache.dir
