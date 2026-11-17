@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/GitHub/ohGodItsPointerTime/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\mainApp.dir\\pointers.cpp.obj -c C:\\GitHub\\ohGodItsPointerTime\\pointers.cpp",
-  "file": "C:/GitHub/ohGodItsPointerTime/pointers.cpp",
-  "output": "CMakeFiles/mainApp.dir/pointers.cpp.obj"
-}
-]
