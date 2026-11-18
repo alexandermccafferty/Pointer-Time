@@ -1,4 +1,5 @@
 #include <iostream>
+#include "matrix.h"
 
 //references!
 void changeNum(int& num){
@@ -8,6 +9,7 @@ void changeNum(int& num){
 void changeWPointer(int* num){
     (*num)++;
 }
+
 
 int main(){
     std::cout << "CMake Working" << std::endl;
@@ -29,4 +31,8 @@ int main(){
     int* varPtr = &var;
     changeWPointer(varPtr);
     std::cout << var << std::endl;
+
+    MatrixClass matrix;
+    matrix.createMatrix(5, 5);
+    matrix.printValue(3, 2);
 }

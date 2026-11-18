@@ -8,6 +8,8 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Bundle all your source files together into a single target executable
-add_executable(mainApp 
+add_executable(MatrixApp 
     pointers.cpp
+    MatrixClass.cpp
+    matrix.h
 )
