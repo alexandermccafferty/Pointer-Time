@@ -35,4 +35,6 @@ int main(){
     MatrixClass matrix;
     matrix.createMatrix(5, 5);
     matrix.printValue(3, 2);
+
+    matrix.multiply(3);
 }
