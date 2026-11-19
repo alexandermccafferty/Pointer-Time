@@ -9,4 +9,6 @@ class MatrixClass{
         void multiply(int mult);
         void setData();
         void manualSet();
+        int intInput(const char* message, int limit);
+        char charInput(const char* message);
 };

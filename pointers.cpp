@@ -36,5 +36,7 @@ int main(){
     matrix.createMatrix(5, 5);
     matrix.printValue(3, 2);
 
+    matrix.setData();
     matrix.multiply(3);
+    matrix.printValue(2,2);
 }
