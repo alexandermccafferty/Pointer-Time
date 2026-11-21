@@ -38,5 +38,8 @@ int main(){
 
     matrix.setData();
     matrix.multiply(3);
-    matrix.printValue(2,2);
+    matrix.printMatrix();
+
+    MatrixClass matrix2(matrix);
+    matrix2.printMatrix();
 }
